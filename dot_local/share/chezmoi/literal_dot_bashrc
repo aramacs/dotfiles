@@ -367,10 +367,3 @@ alias config='/usr/bin/git --git-dir=$HOME/mydotfiles/ --work-tree=$HOME'
 #sysinfo-retro
 #cpufetch
 colorscript random
-
-#starship prompt
-eval "$(starship init bash)"
-
-#asdf 
-. /opt/asdf-vm/asdf.sh
-
